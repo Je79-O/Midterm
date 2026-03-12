@@ -11,8 +11,16 @@ p {
   color: green
 }
 
+		
+p { 
+  font-family:"Kalina":Didone;
+}
 
 html, body { 
   height: 100%;
   background-color: blue;
+}
+
+body {
+  font-family:"Aguavina-script: Active;
 }
