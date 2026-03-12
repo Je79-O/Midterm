@@ -13,7 +13,7 @@ p {
 
 		
 p { 
-  font-family:"Kalina" Serif;
+  font-family:"Kalina": Serif
 }
 
 html, body { 
@@ -22,7 +22,7 @@ html, body {
 }
 
 body {
-  font-family:"Aguavina-script" Feeling;
+  font-family:"Aguavina-script": Feeling
 }
 
 
