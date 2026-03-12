@@ -17,7 +17,11 @@ h1 {
 	font-family:"Kalnia", serif;
 	
 }
-		
+
+h2, h3 { 
+	font-family:"Aguavaina Script",
+}
+
 p { 
   font-family:"Kalnia", serif;
 }
