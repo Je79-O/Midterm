@@ -12,23 +12,24 @@ p {
 
 
 
+
 h1 {
-	font-family:"Kalnia": Serif;
+	font-family:"Kalnia", serif;
 	
 }
 		
 p { 
-  font-family:"Kalnia": Serif
+  font-family:"Kalnia", serif;
 }
 
 html, body { 
   height: 100%;
   background-color: blue;
-	font-face:"Kalnia": Serif
+	font-face:"Kalnia", serif;
 }
 
 body {
-  font-family:"Aguavina Script": Feeling
+  font-family:"Aguavina Script";
 }
 
 
