@@ -3,7 +3,6 @@
 h1, h2, h3 ,h4, h5 {
   font-size: 5em;
   color: orange
-  
 }
 
 p {
@@ -11,6 +10,12 @@ p {
   color: green
 }
 
+
+
+h1 {
+	font-family:"Kalina": Serif;
+	font-face:"Kalina: Serif;
+}
 		
 p { 
   font-family:"Kalina": Serif
